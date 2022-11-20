@@ -1,0 +1,12 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "GolbuteLand [v1.2]",
+      "name" : "GolbuteLand",
+      "version" : "1.2",
+      "location" : "golbuteland.json",
+      "priority" : 0
+    }
+  ]
+}
